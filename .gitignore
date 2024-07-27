@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# IDEs 
+.vscode/
+
+# Compilation files
+dist/
+build/
+
+# Environment files
+.env
+
+# Sistem files
+.DS_Store
+Thumbs.db
