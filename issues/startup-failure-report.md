@@ -65,7 +65,7 @@ The browser in the address `localhost.3000` displayed the following error messag
 <image src="/images/npm-audit-31.jpg" alt="npm audit 31">
 <image src="/images/npm-audit-32.jpg" alt="npm audit 32">
 
-+ Error messagen when typing
++ Error messagen when typing `npm start`:
 <image src="/images/npm-start-errors-01.jpg" alt="npm start errors 01">
 <image src="/images/npm-start-errors-02.jpg" alt="npm start errors 02">
 
