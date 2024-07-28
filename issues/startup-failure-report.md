@@ -75,7 +75,7 @@ The browser in the address `localhost.3000` displayed the following error messag
 
 
 ## Additional Notes
-- The error occurred in both Visual Studio environment.
+- The error occurred in Visual Studio environment.
 - Despite limited experience with C#, .NET, and React, I intend to investigate potential solutions to resolve this startup issue.
 - The goal is to overcome this initial hurdle to proceed with the planned functional testing.
 
