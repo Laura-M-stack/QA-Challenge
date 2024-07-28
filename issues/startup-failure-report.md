@@ -71,7 +71,7 @@ The browser in the address `localhost.3000` displayed the following error messag
 
 - **Browser error message:** 
 + Error message in the browser Google Chrome, in `localhost.3000`:
-<image src="/images/npm-start-web-browser-localhost-3000.jpg)" alt="npm start web browser localhost.3000">
+<image src="/images/npm-start-web-browser-localhost-3000.jpg" alt="npm start web browser localhost.3000">
 
 
 ## Additional Notes
