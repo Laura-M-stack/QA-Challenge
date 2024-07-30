@@ -85,7 +85,7 @@ The browser in the address `localhost.3000` displayed the following error messag
 3. Check for any configuration issues in the project setup
 4. Investigate potential conflicts between the C# backend and React frontend
 5. Consult documentation and community resources for troubleshooting steps
-6. Implement potential fixes and document the process and results
+6. Attempt to inicialize the application in Visual Studio Code
 
 ## Impact on Testing
 This startup failure currently prevents the execution of planned functional tests. Resolving this issue is critical to proceed with the QA challenge objectives. In the meantime, I will focus on reviewing the available code and documentation to prepare for testing once the application is operational.
